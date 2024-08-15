@@ -1,2 +1,1 @@
-# Local-AI-Chatbot
- 
+# Local AI Chatbot
